@@ -1,1 +1,1 @@
-# attendance-smart
+# face_recognition_flask
